@@ -4,7 +4,15 @@
 
 Hold the bridge. Bring the last convoy home.
 
-An offline iPhone squad-defense game by Zhenqing Hou. Escort the last evacuation convoy through 24 missions across three chapters.
+Bridgeward: Pulse Siege is an offline squad-defense shooter for iPhone by Zhenqing Hou. It combines automatic shooting with active lane movement, squad recruitment, and boss attacks you can dodge or interrupt. Escort the last evacuation convoy through 24 missions across three chapters.
+
+- Platform: iPhone, iOS 17 or later.
+- Languages: English and Simplified Chinese, selected by device language.
+- Monetization: no advertisements or in-app purchases.
+- Connectivity: no account or internet connection required to play.
+- Progress: stored locally on the device.
+- Campaign: 24 missions, three chapters, changing boss attack sequences.
+- Squad: up to 18 permanent guards; temporary reinforcements can raise the total to 36. Direct hits can remove guards.
 
 ## How to play
 
